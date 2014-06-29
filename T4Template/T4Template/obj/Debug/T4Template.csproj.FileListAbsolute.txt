@@ -1,0 +1,8 @@
+D:\Musaka\!NewProjects\T4Template\T4Template\bin\Debug\T4Template.exe.config
+D:\Musaka\!NewProjects\T4Template\T4Template\bin\Debug\T4Template.exe
+D:\Musaka\!NewProjects\T4Template\T4Template\bin\Debug\T4Template.pdb
+D:\Musaka\!NewProjects\T4Template\T4Template\bin\Debug\log4net.dll
+D:\Musaka\!NewProjects\T4Template\T4Template\bin\Debug\log4net.xml
+D:\Musaka\!NewProjects\T4Template\T4Template\obj\Debug\T4Template.csprojResolveAssemblyReference.cache
+D:\Musaka\!NewProjects\T4Template\T4Template\obj\Debug\T4Template.exe
+D:\Musaka\!NewProjects\T4Template\T4Template\obj\Debug\T4Template.pdb
